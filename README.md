@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shadman-2021
 - 👀 I’m interested in Every aspect of life.
-- 🌱 I’m currently learning Sodtware Testing.
+- 🌱 I’m currently learning Software Development andTesting.
 - 💞️ I’m looking to collaborate on any Business 
 - 📫 How to reach me : Through email: shadman_ahsan@yahoo.com
 
